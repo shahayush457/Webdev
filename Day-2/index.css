@@ -1,0 +1,27 @@
+body{
+    background-color: #777777;
+    margin: 0;
+    padding: 0;
+
+}
+.center-element{
+    margin: 0;
+    padding: 0;
+    color: #FFF
+    flex: 1;
+
+}
+.top-bar{
+    backgroung-color: #510d51
+    height: 100px;
+    display: flex;
+}
+.head-img{
+    position: absolute;
+    margin: 0;
+    padding:0;
+    width: 8vw;
+    height: 8vw;
+    flex: 1;
+    margin-right: 0;
+}
